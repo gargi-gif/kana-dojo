@@ -361,7 +361,9 @@
     ],
     "correctIndex": 1,
     "completed": false,
-    "issued": true
+    "issued": false,
+    "completedBy": "ded-furby",
+    "completedPR": 21040
   },
   {
     "id": 27,
